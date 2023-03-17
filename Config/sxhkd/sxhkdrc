@@ -4,8 +4,6 @@
 
 # terminal emulator
 super + Return
-	#Uncomment de next line and comment kitty line if you want gnome terminal
-	#gnome-terminal
 	/opt/kitty/bin/kitty
 
 # i3lock 
