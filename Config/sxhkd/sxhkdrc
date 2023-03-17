@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	/opt/kitty/bin/kitty
+	gnome-terminal
 
 # i3lock 
 shift + l

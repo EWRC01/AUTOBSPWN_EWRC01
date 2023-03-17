@@ -58,9 +58,6 @@ sudo dpkg -i $ruta/lsd.deb
 #Instalamos las Hacks Nerd Fonts
 sudo cp -v $ruta/fonts/HNF/* /usr/local/share/fonts/
 
-#Instalamos Fuentes de Polybar
-sudo cp -v $ruta/Config/polybar/fonts/* /usr/share/fonts/truetype/
-
 #Instalando Wallpaper personalizado
 mkdir ~/Wallpaper
 cp -v $ruta/Wallpaper/* ~/Wallpaper
