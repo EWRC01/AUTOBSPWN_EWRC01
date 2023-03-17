@@ -75,7 +75,7 @@ sudo cp -v $ruta/fonts/HNF/* /usr/share/fonts/hack-nerd-fonts/
 
 # Instalando Fuentes de Polybar
 
-#sudo cp -v $ruta/Config/polybar/fonts/* /usr/share/fonts/truetype/
+sudo cp -v $ruta/Config/polybar/fonts/* /usr/share/fonts/truetype/
 
 # Instalando Wallpaper de S4vitar
 
