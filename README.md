@@ -34,3 +34,15 @@ These are some examples of terminal, icons, polybar modules and more...
 ### User
 ![](https://github.com/EWRC01/AUTOBSPWN_EWRC01/blob/main/Preview/Preview4.png)
 
+### 5. Credits
+
+Credits and thanks to the following people, since many of the files were taken based on them:
+
+xJacksx https://github.com/xJackSx/
+
+Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
+
+S4vitar https://github.com/s4vitar
+
+ZLCube https://github.com/ZLCube
+
